@@ -1,0 +1,1 @@
+This repository contains notebooks, projects, and implementations from my Artificial Intelligence course. Topics include foundational AI concepts, machine learning algorithms, and applications of neural networks,Reinforcment learning and another topics.
